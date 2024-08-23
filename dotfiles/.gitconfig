@@ -1,0 +1,6 @@
+[user]
+        email = @gmail.com
+        name = Kami
+        signingkey = /id_rsa.pub
+[gpg]
+        format = ssh
